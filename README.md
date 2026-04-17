@@ -1,2 +1,9 @@
-# tiny-web-scraper-lab-31
-A simple web scraper project
+# Web Scraper
+
+A simple web scraper project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
